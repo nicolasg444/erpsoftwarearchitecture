@@ -6,7 +6,7 @@
 **Universidad Manuela Beltrán - Facultad de Ingeniería**
 
 ### Team Members
-- Daniel Felipe Rojas González
+- Daniel Felipe Rojas González 
 - Isaac Núñez Melo
 - Nicolás Rodríguez Betancourt
 - Cristian David Cotrino
